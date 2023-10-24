@@ -1,0 +1,390 @@
+school,date,type,count
+Nurtury - Mt Pleasant,2020-10-01,Other,3
+Nurtury - Mt Pleasant,2020-11-01,Other,1
+Nurtury - Mt Pleasant,2021-01-01,Intro to Centers,1
+Nurtury - Mt Pleasant,2020-12-01,Intro to Centers,1
+Nurtury - Mt Pleasant,2021-02-01,Other,1
+Nurtury - Horadan Way,2021-01-01,Intro to Centers,2
+Nurtury - Horadan Way,2020-12-01,Intro to Centers,1
+Mission Grammar,2020-09-01,Other,1
+Mission Grammar,2020-10-01,Other,1
+Mission Grammar,2020-12-01,Center,1
+Mission Grammar,2020-12-01,Literacy small groups,1
+Mission Grammar,2020-12-01,BB small group,1
+Mission Grammar,2021-01-01,Center,1
+Mission Grammar,2021-01-01,Literacy small groups,2
+Mission Grammar,2021-01-01,BB small group,2
+Mission Grammar,2021-01-01,Other,1
+Mission Grammar,2021-05-01,Other,1
+BCNC,2020-10-01,Read Aloud,3
+BCNC,2020-10-01,Heggerty,2
+BCNC,2020-10-01,BB whole group,2
+BCNC,2020-10-01,Intro to Centers,1
+BCNC,2020-11-01,Intro to Centers,1
+BCNC,2020-11-01,Read Aloud,1
+BCNC,2020-11-01,Heggerty,2
+BCNC,2020-11-01,BB whole group,1
+BCNC,2020-11-01,BB centers,1
+BCNC,2020-11-01,Other,1
+BCNC,2020-12-01,Read Aloud,2
+BCNC,2020-12-01,Thinking and Feedback,2
+BCNC,2020-12-01,Other,3
+BCNC,2020-12-01,Heggerty,1
+BCNC,2020-12-01,Literacy small groups,1
+BCNC,2021-01-01,Read Aloud,2
+BCNC,2021-01-01,Heggerty,1
+BCNC,2021-01-01,Other,2
+BCNC,2021-01-01,Thinking and Feedback,1
+BCNC,2021-02-01,Read Aloud,3
+BCNC,2021-02-01,Heggerty,3
+BCNC,2021-02-01,LFOAI,2
+BCNC,2021-02-01,Other,1
+BCNC,2021-03-01,Heggerty,2
+BCNC,2021-03-01,LFOAI,1
+BCNC,2021-03-01,Other,2
+BCNC,2021-03-01,Intro to Centers,1
+BCNC,2021-03-01,Read Aloud,2
+BCNC,2021-03-01,Thinking and Feedback,1
+BCNC,2021-03-01,BB whole group,1
+BCNC,2021-04-01,Literacy small groups,1
+BCNC,2021-04-01,Read Aloud,1
+BCNC,2021-04-01,Other,2
+BCNC,2021-04-01,Intro to Centers,1
+BCNC,2021-04-01,Thinking and Feedback,1
+BCNC,2021-05-01,Read Aloud,1
+BCNC,2021-05-01,Heggerty,1
+Shaloh,2020-10-01,Other,1
+Shaloh,2020-11-01,Intro to Centers,1
+Shaloh,2020-11-01,Read Aloud,1
+Shaloh,2020-11-01,BB whole group,1
+Shaloh,2020-11-01,Other,1
+Shaloh,2020-12-01,Intro to Centers,1
+Shaloh,2020-12-01,Center,1
+Shaloh,2020-12-01,Read Aloud,1
+Shaloh,2020-12-01,BB whole group,1
+Shaloh,2020-12-01,Other,1
+Shaloh,2021-01-01,Heggerty,1
+Shaloh,2021-01-01,BB whole group,1
+Shaloh,2021-01-01,Other,1
+Shaloh,2021-02-01,Thinking and Feedback,1
+Shaloh,2021-02-01,Intro to Centers,1
+Shaloh,2021-02-01,Center,1
+Shaloh,2021-02-01,Read Aloud,1
+Shaloh,2021-02-01,BB whole group,1
+Shaloh,2021-02-01,Other,1
+Shaloh,2021-03-01,BB whole group,2
+Shaloh,2021-03-01,Other,1
+Shaloh,2021-03-01,Read Aloud,1
+Shaloh,2021-03-01,Heggerty,1
+Shaloh,2021-04-01,Intro to Centers,1
+Shaloh,2021-04-01,Read Aloud,1
+Shaloh,2021-04-01,BB whole group,2
+Shaloh,2021-04-01,Other,1
+Horizons for Children,2020-10-01,Intro to Centers,2
+Horizons for Children,2020-10-01,Center,2
+Horizons for Children,2020-10-01,Other,1
+Horizons for Children,2020-11-01,Heggerty,1
+Horizons for Children,2020-12-01,Literacy small groups,1
+Horizons for Children,2020-12-01,LFOAI,1
+Horizons for Children,2020-12-01,BB whole group,1
+Horizons for Children,2020-12-01,Thinking and Feedback,2
+Horizons for Children,2021-01-01,Thinking and Feedback,2
+Horizons for Children,2021-01-01,Read Aloud,2
+Horizons for Children,2021-02-01,BB small group,2
+Horizons for Children,2021-03-01,BB small group,2
+Horizons for Children,2021-03-01,Literacy small groups,2
+Horizons for Children,2021-04-01,BB small group,1
+YMCA RTH,2020-10-01,Other,1
+YMCA RTH,2020-11-01,Intro to Centers,1
+YMCA RTH,2020-11-01,Center,1
+YMCA RTH,2020-11-01,Heggerty,1
+YMCA RTH,2020-12-01,Other,1
+YMCA RTH,2021-01-01,Intro to Centers,2
+YMCA RTH,2021-01-01,Center,2
+YMCA RTH,2021-01-01,Heggerty,1
+YMCA RTH,2021-02-01,Center,1
+YMCA RTH,2021-02-01,Thinking and Feedback,1
+YMCA RTH,2021-03-01,Literacy small groups,1
+YMCA RTH,2021-03-01,Heggerty,1
+YMCA RTH,2021-03-01,BB whole group,1
+YMCA RTH,2021-03-01,Center,1
+YMCA RTH,2021-03-01,Thinking and Feedback,1
+YMCA RTH,2021-05-01,Center,1
+YMCA RTH,2021-05-01,Thinking and Feedback,1
+YMCA RTH,2021-06-01,Center,1
+Little Voices,2020-10-01,Center,2
+Little Voices,2020-11-01,BB small group,1
+Little Voices,2020-11-01,Intro to Centers,1
+Little Voices,2020-11-01,Center,1
+Little Voices,2020-12-01,Literacy small groups,2
+Little Voices,2020-12-01,Thinking and Feedback,2
+Little Voices,2020-12-01,BB whole group,2
+Little Voices,2020-12-01,BB small group,2
+Little Voices,2021-01-01,Read Aloud,2
+Little Voices,2021-01-01,Thinking and Feedback,1
+Little Voices,2021-01-01,BB small group,2
+Little Voices,2021-02-01,BB small group,1
+Little Voices,2021-02-01,Storytelling/Storyacting,1
+Little Voices,2021-02-01,Read Aloud,1
+Little Voices,2021-03-01,LFOAI,2
+Little Voices,2021-04-01,Storytelling/Storyacting,2
+Little Voices,2021-05-01,Intro to Centers,1
+Little Voices,2021-05-01,Center,2
+Little Voices,2021-05-01,Storytelling/Storyacting,1
+Little Voices,2021-05-01,Heggerty,1
+Boys & Girls Club - Denny,2021-05-01,Other,1
+Hattie B Cooper,2020-10-01,Intro to Centers,2
+Hattie B Cooper,2020-10-01,Center,1
+Hattie B Cooper,2020-10-01,Thinking and Feedback,1
+Hattie B Cooper,2020-10-01,Literacy small groups,1
+Hattie B Cooper,2020-10-01,BB small group,1
+Hattie B Cooper,2020-11-01,Intro to Centers,1
+Hattie B Cooper,2020-11-01,Heggerty,1
+Hattie B Cooper,2020-11-01,BB whole group,1
+Hattie B Cooper,2020-11-01,BB small group,1
+Hattie B Cooper,2020-12-01,BB whole group,1
+Hattie B Cooper,2020-12-01,BB small group,1
+Hattie B Cooper,2021-01-01,Thinking and Feedback,2
+Hattie B Cooper,2021-02-01,Center,1
+Hattie B Cooper,2021-03-01,Read Aloud,1
+Hattie B Cooper,2021-04-01,Read Aloud,1
+Hattie B Cooper,2021-05-01,LFOAI,1
+JFK Center,2020-10-01,Read Aloud,1
+JFK Center,2020-10-01,Other,1
+JFK Center,2020-10-01,Intro to Centers,3
+JFK Center,2020-10-01,Center,3
+JFK Center,2020-11-01,Intro to Centers,1
+JFK Center,2020-11-01,Center,2
+JFK Center,2020-11-01,Thinking and Feedback,1
+JFK Center,2020-11-01,BB small group,1
+JFK Center,2020-12-01,Heggerty,1
+JFK Center,2020-12-01,BB small group,1
+JFK Center,2020-12-01,Intro to Centers,1
+JFK Center,2020-12-01,Read Aloud,1
+JFK Center,2021-01-01,Read Aloud,2
+JFK Center,2021-01-01,Literacy small groups,1
+JFK Center,2021-02-01,Read Aloud,2
+JFK Center,2021-02-01,Other,1
+JFK Center,2021-02-01,Intro to Centers,1
+JFK Center,2021-02-01,Center,1
+JFK Center,2021-03-01,BB small group,3
+JFK Center,2021-03-01,Intro to Centers,1
+JFK Center,2021-03-01,Center,1
+JFK Center,2021-03-01,Read Aloud,1
+JFK Center,2021-03-01,LFOAI,1
+JFK Center,2021-04-01,Heggerty,2
+JFK Center,2021-04-01,BB whole group,2
+JFK Center,2021-04-01,LFOAI,2
+JFK Center,2021-04-01,BB small group,1
+JFK Center,2021-05-01,Center,2
+JFK Center,2021-05-01,Storytelling/Storyacting,1
+JFK Center,2021-05-01,Intro to Centers,1
+YMCA - East Boston,2020-10-01,Other,1
+YMCA - East Boston,2020-11-01,Other,1
+YMCA - East Boston,2021-01-01,BB whole group,1
+YMCA - East Boston,2021-01-01,BB small group,3
+YMCA - East Boston,2021-01-01,Literacy small groups,2
+YMCA - East Boston,2021-02-01,Literacy small groups,2
+YMCA - East Boston,2021-02-01,BB small group,1
+YMCA - East Boston,2021-03-01,Center,2
+YMCA - East Boston,2021-03-01,Literacy small groups,1
+YMCA - East Boston,2021-05-01,Other,1
+ABCD Hyde Park,2020-11-01,Intro to Centers,1
+ABCD Hyde Park,2020-11-01,Read Aloud,1
+ABCD Hyde Park,2021-01-01,Intro to Centers,1
+ABCD Hyde Park,2021-01-01,Center,1
+ABCD Hyde Park,2021-02-01,Literacy small groups,1
+ABCD Hyde Park,2021-03-01,BB small group,1
+ABCD Hyde Park,2021-04-01,BB small group,1
+ABCD Hyde Park,2021-05-01,Center,1
+Crispus Attucks,2020-11-01,Center,1
+Crispus Attucks,2020-11-01,Thinking and Feedback,1
+Crispus Attucks,2021-02-01,Center,1
+Crispus Attucks,2021-03-01,Literacy small groups,1
+Crispus Attucks,2021-03-01,BB small group,1
+Crispus Attucks,2021-04-01,Center,1
+Crispus Attucks,2021-04-01,Read Aloud,1
+Crispus Attucks,2021-04-01,Thinking and Feedback,1
+Crispus Attucks,2021-05-01,Heggerty,1
+YMCA Wang,2020-11-01,Center,2
+YMCA Wang,2020-11-01,Thinking and Feedback,1
+YMCA Wang,2020-12-01,Center,1
+YMCA Wang,2021-01-01,Other,1
+YMCA Wang,2021-02-01,Other,1
+YMCA Wang,2021-03-01,Literacy small groups,2
+YMCA Wang,2021-03-01,LFOAI,2
+YMCA Wang,2021-04-01,Literacy small groups,1
+YMCA Wang,2021-04-01,LFOAI,1
+Ellis Memorial,2020-10-01,Other,4
+Ellis Memorial,2020-11-01,Other,1
+Ellis Memorial,2020-12-01,Intro to Centers,3
+Ellis Memorial,2020-12-01,Read Aloud,1
+Ellis Memorial,2020-12-01,Heggerty,1
+Ellis Memorial,2020-12-01,Other,1
+Ellis Memorial,2021-01-01,Heggerty,2
+Ellis Memorial,2021-01-01,Other,1
+Ellis Memorial,2021-01-01,Intro to Centers,1
+Ellis Memorial,2021-01-01,Read Aloud,1
+IBA,2020-10-01,Other,1
+IBA,2020-12-01,BB small group,1
+IBA,2020-12-01,BB centers,1
+ABCD Roslindale,2020-12-01,Intro to Centers,2
+ABCD Roslindale,2020-12-01,Read Aloud,1
+ABCD Roslindale,2020-12-01,BB whole group,1
+ABCD Roslindale,2020-12-01,Center,1
+ABCD Roslindale,2021-01-01,Center,2
+ABCD Roslindale,2021-02-01,Literacy small groups,1
+ABCD Roslindale,2021-02-01,BB small group,1
+ABCD Roslindale,2021-03-01,BB small group,1
+ABCD Roslindale,2021-04-01,Center,1
+ABCD Roslindale,2021-05-01,Other,1
+Paige Academy,2020-09-01,Intro to Centers,1
+Paige Academy,2020-09-01,Center,1
+Paige Academy,2020-12-01,Thinking and Feedback,1
+Paige Academy,2021-01-01,Intro to Centers,1
+Paige Academy,2021-01-01,Center,1
+Paige Academy,2021-02-01,Center,1
+Paige Academy,2021-03-01,Center,1
+Paige Academy,2021-05-01,Intro to Centers,1
+Paige Academy,2021-05-01,Center,1
+Paige Academy,2021-05-01,Read Aloud,1
+Paige Academy,2021-05-01,Thinking and Feedback,1
+Paige Academy,2021-06-01,Intro to Centers,1
+Paige Academy,2021-06-01,Center,1
+Paige Academy,2021-06-01,Thinking and Feedback,1
+Paige Academy,2021-06-01,Recess,1
+Nurtury - Tremont,2020-12-01,Other,1
+Nurtury - Tremont,2020-12-01,Intro to Centers,1
+Nurtury - Tremont,2020-12-01,Heggerty,1
+Nurtury - Tremont,2021-01-01,Other,1
+Nurtury - Tremont,2021-01-01,Intro to Centers,1
+Nurtury - Tremont,2021-01-01,Heggerty,1
+Nurtury - Tremont,2021-02-01,Heggerty,1
+Nurtury - Tremont,2020-10-01,Other,1
+ABCD - Walnut Grove,2020-12-01,Center,1
+ABCD - Walnut Grove,2021-01-01,Other,2
+ABCD - Walnut Grove,2021-03-01,Literacy small groups,1
+ABCD - Walnut Grove,2021-03-01,LFOAI,1
+YMCA Roxbury,2020-11-01,Other,1
+YMCA Roxbury,2020-12-01,Center,2
+YMCA Roxbury,2021-01-01,Center,1
+YMCA Roxbury,2021-05-01,Center,1
+Nurtury - Learning Lab,2020-12-01,Other,1
+Nurtury - Learning Lab,2020-12-01,Intro to Centers,1
+Nurtury - Learning Lab,2020-12-01,Read Aloud,1
+Nurtury - Learning Lab,2021-01-01,Intro to Centers,1
+Nurtury - Learning Lab,2021-01-01,Read Aloud,1
+Nurtury - Learning Lab,2021-02-01,Intro to Centers,1
+Nurtury - Learning Lab,2021-02-01,Read Aloud,1
+Nurtury - Learning Lab,2020-11-01,Intro to Centers,2
+Nurtury - Learning Lab,2020-11-01,Other,1
+Nurtury - Learning Lab,2020-11-01,BB small group,1
+Nurtury - Learning Lab,2020-11-01,BB centers,1
+South Boston Neighborhood House,2020-10-01,Intro to Centers,2
+South Boston Neighborhood House,2020-11-01,Read Aloud,1
+South Boston Neighborhood House,2020-12-01,BB whole group,1
+South Boston Neighborhood House,2021-01-01,Thinking and Feedback,1
+South Boston Neighborhood House,2021-02-01,Intro to Centers,1
+South Boston Neighborhood House,2021-02-01,Center,2
+South Boston Neighborhood House,2021-03-01,Literacy small groups,1
+South Boston Neighborhood House,2021-03-01,Storytelling/Storyacting,1
+YMCA - West Roxbury,2020-10-01,Intro to Centers,1
+YMCA - West Roxbury,2020-10-01,Center,1
+YMCA - West Roxbury,2020-10-01,Read Aloud,1
+YMCA - West Roxbury,2020-11-01,Literacy small groups,1
+YMCA - West Roxbury,2020-11-01,BB small group,1
+YMCA - West Roxbury,2020-12-01,Literacy small groups,1
+YMCA - West Roxbury,2020-12-01,BB small group,1
+YMCA - West Roxbury,2021-01-01,LFOAI,2
+YMCA - West Roxbury,2021-02-01,Storytelling/Storyacting,2
+YMCA - West Roxbury,2021-03-01,Storytelling/Storyacting,1
+YMCA - West Roxbury,2021-04-01,Storytelling/Storyacting,1
+YMCA - West Roxbury,2021-05-01,Center,1
+Wesley,2020-10-01,Read Aloud,1
+Wesley,2020-10-01,Heggerty,1
+Wesley,2020-10-01,BB whole group,1
+Wesley,2020-10-01,BB small group,1
+Wesley,2020-11-01,Heggerty,1
+Wesley,2020-11-01,BB small group,1
+Wesley,2020-11-01,Literacy small groups,1
+Wesley,2021-01-01,BB whole group,1
+Wesley,2021-01-01,Center,1
+Wesley,2021-01-01,Literacy small groups,1
+Wesley,2021-01-01,Read Aloud,1
+Wesley,2021-02-01,Literacy small groups,1
+Wesley,2021-02-01,BB small group,1
+Wesley,2021-03-01,Intro to Centers,1
+Wesley,2021-03-01,Center,2
+Wesley,2021-03-01,BB small group,2
+Wesley,2021-04-01,Center,1
+Wesley,2021-04-01,BB whole group,1
+Wesley,2021-04-01,Other,1
+Wesley,2021-05-01,Center,1
+Wesley,2021-05-01,BB small group,1
+Wesley,2021-05-01,Other,1
+Wesley,2021-06-01,BB small group,1
+Boys & Girls Club - Marr,2020-10-01,Other,1
+Boys & Girls Club - Marr,2020-11-01,Other,1
+Boys & Girls Club - Marr,2020-12-01,Other,1
+Boys & Girls Club - Marr,2021-02-01,Literacy small groups,1
+Boys & Girls Club - Marr,2021-02-01,Other,2
+Boys & Girls Club - Marr,2021-01-01,Other,1
+Boys & Girls Club - Marr,2021-03-01,Other,1
+Boys & Girls Club - Marr,2021-04-01,Other,1
+Boys & Girls Club - Marr,2021-06-01,Other,1
+Boys & Girls Club - McLaughlin,2020-02-01,Literacy small groups,1
+Boys & Girls Club - McLaughlin,2021-06-01,Other,1
+VietAid,2020-10-01,Other,2
+VietAid,2020-11-01,Intro to Centers,2
+VietAid,2020-11-01,Read Aloud,2
+VietAid,2020-11-01,Heggerty,2
+VietAid,2020-11-01,Other,2
+VietAid,2020-11-01,Thinking and Feedback,1
+VietAid,2020-11-01,BB whole group,1
+VietAid,2020-12-01,Intro to Centers,2
+VietAid,2020-12-01,Read Aloud,2
+VietAid,2020-12-01,Heggerty,1
+VietAid,2020-12-01,Thinking and Feedback,1
+VietAid,2020-12-01,Center,1
+VietAid,2020-12-01,Other,1
+VietAid,2021-01-01,Center,1
+VietAid,2021-01-01,Heggerty,1
+VietAid,2021-01-01,LFOAI,1
+VietAid,2021-01-01,BB small group,1
+VietAid,2021-02-01,Center,1
+VietAid,2021-02-01,Heggerty,1
+VietAid,2021-02-01,Thinking and Feedback,1
+VietAid,2021-02-01,LFOAI,1
+VietAid,2021-03-01,Intro to Centers,1
+VietAid,2021-03-01,Center,2
+VietAid,2021-03-01,Read Aloud,1
+VietAid,2021-03-01,Heggerty,2
+VietAid,2021-03-01,LFOAI,1
+VietAid,2021-03-01,BB whole group,1
+VietAid,2021-03-01,BB small group,2
+VietAid,2021-04-01,Other,1
+VietAid,2021-05-01,Intro to Centers,1
+VietAid,2021-05-01,Center,1
+VietAid,2021-05-01,Literacy small groups,1
+VietAid,2021-05-01,Read Aloud,1
+VietAid,2021-05-01,Storytelling/Storyacting,1
+VietAid,2021-05-01,Thinking and Feedback,1
+VietAid,2021-05-01,BB small group,1
+ABCD - Jamaica Plain,2020-11-01,Read Aloud,2
+ABCD - Jamaica Plain,2020-11-01,Center,1
+ABCD - Jamaica Plain,2020-12-01,Center,3
+ABCD - Jamaica Plain,2020-12-01,Other,1
+ABCD - Jamaica Plain,2020-12-01,Literacy small groups,1
+ABCD - Jamaica Plain,2021-01-01,Center,2
+ABCD - Jamaica Plain,2021-01-01,Literacy small groups,2
+ABCD - Jamaica Plain,2021-01-01,Heggerty,1
+ABCD - Jamaica Plain,2021-01-01,BB centers,2
+ABCD - Jamaica Plain,2021-03-01,Center,2
+ABCD - Jamaica Plain,2021-03-01,Literacy small groups,2
+ABCD - Jamaica Plain,2021-03-01,LFOAI,2
+ABCD - Jamaica Plain,2021-04-01,Center,1
+ABCD - Jamaica Plain,2021-04-01,Literacy small groups,1
+ABCD - Jamaica Plain,2021-04-01,LFOAI,1
+ABCD - Jamaica Plain,2021-05-01,Center,2
+ABCD - Jamaica Plain,2021-05-01,Literacy small groups,2
+ABCD - Jamaica Plain,2021-05-01,LFOAI,1
